@@ -1,4 +1,4 @@
-# Tiffany Gross
+# Tiffany Gross' web-dev homework
 
 This repository is for web design homework
 
