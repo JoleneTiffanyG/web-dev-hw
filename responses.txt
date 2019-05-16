@@ -1,7 +1,0 @@
-The "web" is what is meant by the thing that connects information, while the Internet is what connects participants.  The Internet is a network of networks, or the infrastructure beneath the information on the web.
-
-The Internet is a wire connecting servers and clients.  Servers connect directly to it, and clients connect by way of an ISP server. All sent/shared information is broken down into packets of information and reassembled for the viewer/destination.  Everything connected to the Internet has a unique IP address.  Routers connect devices within a network, forwarding packets of information.
-
-A directory (or folder) is a folio containing other directories or files, or both.
-
-A version control system allows you to easily see how and what point you have modified your page/project.  You can save a current version of the project at any given time, and later if you wish to look back at the process and previous versions, you can easily use a VCS database to see the modifications that have been made.  Aside from being an organized way to glance back over your building process, you can also use this to revert back to an earlier version if for some reason that becomes prudent or beneficial.  It can also be helpful if you are collaborating with others, so that changes can be easily pinpointed by all involved.
