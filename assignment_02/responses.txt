@@ -1,0 +1,7 @@
+Data travels on the Internet by way of packets of information, by constantly changing routes. Bits of information are distributed into packets, each of which has the IP address of its origin and its destination.  Each router keeps track of multiple possible paths and chooses the quickest/easiest route for the data to travel.
+
+   An IP address is a hierarchy of numbers, represented in bits, signifying the location of the device, is unique to each device on the network.  A Domain Name System associates names with the corresponding addresses.  A device uses the DNS to look up domain names and get the associated IP address.  DNS servers are themselves connected to each other to be able to handle the sheer amount of information.
+
+A cookie is a small piece of information sent from a website and stored on your device by your browser while you are in the process of browsing.  They can be used to recall arbitrary pieces  of information that you've entered on that site, or can recall pieces of information such as what you are putting in your shopping cart on Amazon.  Authentication cookies are used to know  whether a user is logged in or not, and from which account.  Tracking cookies are often used to keep records of browsing history.  Let's not get started on that!
+
+The three basic parts of a uniform resource locator (URL) are protocol (for example http), domain, and a file/page.
