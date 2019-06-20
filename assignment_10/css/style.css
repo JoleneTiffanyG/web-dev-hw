@@ -1,0 +1,25 @@
+
+   body {
+     background-color: rgb(115,176,165);
+     text-align: center;
+     color: black;
+     padding: 4px;
+     font-family: fantasy;
+   }
+
+
+
+.text {
+  background-color: rgba(127, 100, 250, .8);
+  color: white;
+  width: 43%
+}
+
+
+h1 {
+  color: #FFFFFF
+}
+
+h2 {
+  color: #FFFFFF
+}
