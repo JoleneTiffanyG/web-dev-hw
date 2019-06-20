@@ -1,7 +1,12 @@
 
+
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
+
+
    body {
      background-color: rgb(115,176,165);
-     text-align: center;
+     text-align: left;
      color: black;
      padding: 4px;
      font-family: fantasy;
