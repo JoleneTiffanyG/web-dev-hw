@@ -7,12 +7,12 @@
 /* OH I see!  So this tactic only denotes a comment if I'm within CSS styling.  Gotcha   */
 
    img {
-     width: 300px;
-     float: left;
+     width: 600px;
+     float: center;
    }
 
 .rect {
-  background-color: rgb(207, 179, 50);
+  background-color: rgba(207, 179, 50, .8);
   width: 43%
 }
 
