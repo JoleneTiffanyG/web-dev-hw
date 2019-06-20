@@ -9,7 +9,7 @@
      text-align: left;
      color: black;
      padding: 4px;
-     font-family: fantasy;
+     font-family: 'Noto Sans HK', sans-serif;
    }
 
 
@@ -19,6 +19,8 @@
   color: white;
   width: 43%
   font-family: 'Noto Sans HK', sans-serif;
+  font-size: 4cm;
+  font-weight: 600;
 }
 
 
@@ -28,4 +30,8 @@ h1 {
 
 h2 {
   color: #FFFFFF
+}
+
+p::first-letter {
+  font-family: fantasy;
 }
