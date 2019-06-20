@@ -35,3 +35,21 @@ h2 {
 p::first-letter {
   font-family: fantasy;
 }
+
+a {
+  background-color: rgb(0, 0, 0);
+  color: #FFFFFF;
+  padding: 4px;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+a:visited {
+  color: #999999
+}
+
+a:active {
+  font-size: 5cm;
+}
