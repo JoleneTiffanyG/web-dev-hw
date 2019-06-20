@@ -30,6 +30,7 @@ h1 {
 
 h2 {
   color: rgb(100, 50, 20)
+  font-size: 2cm;
 }
 
 p::first-letter {
