@@ -15,7 +15,7 @@
 
 
 .text {
-  background-color: rgba(127, 100, 250, .8);
+  background-color: rgba(127, 100, 50, .8);
   color: white;
   width: 43%
   font-family: 'Noto Sans HK', sans-serif;
@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-  color: #FFFFFF
+  color: rgb(100, 50, 20)
 }
 
 p::first-letter {
