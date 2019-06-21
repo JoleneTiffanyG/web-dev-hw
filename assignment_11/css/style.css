@@ -1,0 +1,36 @@
+
+   body {
+     background-color: rgb(115,136,165);
+     text-align: center;
+     font-family: fantasy;
+   }
+/* OH I see!  So this tactic only denotes a comment if I'm within CSS styling.  Gotcha   */
+
+   img {
+     width: 600px;
+     float: center;
+   }
+
+.rect {
+  background-color: rgba(207, 179, 50, .8);
+  width: 43%
+}
+
+h2 {
+  color: #7BC17E
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+}
