@@ -1,23 +1,30 @@
 
-   body {
-     background-color: rgb(115,136,165);
-     text-align: center;
-     font-family: fantasy;
-   }
-/* OH I see!  So this tactic only denotes a comment if I'm within CSS styling.  Gotcha   */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
+
+.text {
+  background-color: rgba(177, 100, 50, .8);
+  font-family: 'Noto Sans HK', sans-serif;
+
+}
+
+body {
+  background-color: rgb(115,176,165);
+  text-align: left;
+  color: black;
+  padding: 4px;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
 
    img {
-     width: 600px;
+     width: 1200px;
      float: center;
    }
 
-.rect {
-  background-color: rgba(207, 179, 50, .8);
-  width: 43%
-}
+
 
 h2 {
-  color: #7BC17E
+  color: black
 }
 
 div.item {
@@ -27,8 +34,8 @@ div.item {
     width: 120px;
 }
 img {
-    width: 100px;
-    height: 100px;
+    width: 600px;
+    height: 600px;
     background-color: grey;
 }
 .caption {
