@@ -16,7 +16,7 @@
 
 <p>
 
-A system font    A web font   A web-safe font
+The main difference between as system font and a web font is that a system font is designed to be installed on your device and is ready for use in applications also installed on your system.  A web font is usually served in four formats (TrueType, WOFF, EOT and SVG).  A web-safe font is one that is likely that most computers visiting your site will have installed so the browser can use it.
 
 </p>
 
