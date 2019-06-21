@@ -1,0 +1,85 @@
+
+
+
+   body {
+     background-color: rgb(0,0,0);
+     vertical-align: center;
+     horizontal-align: center;
+     text-align: center;
+     font-family: fantasy;
+   }
+
+
+
+
+    div.itemblue .move-this-p {
+      position: relative;
+        vertical-align: center;
+        horizontal-align: center;
+        float: center;
+        /* display: inline-block;
+        text-align: center; */
+        width: 60px;
+        height: 100px
+      }
+
+
+    /*  div.rectblue
+      position: absolute;
+          top: 50px;
+          left: 10px;
+          max-width: 300px;
+          font-size: 2em;
+          opacity: 0.8;
+          */
+
+
+
+          div.itemgreen .move-this-p {
+            position: relative;
+              vertical-align: center;
+              float: center;
+              /* display: inline-block;
+              text-align: center; */
+              width: 30px;
+              height: 100px
+            }
+
+            .test .fixed-element {
+                position: fixed;
+                top: 20px;
+                left: 100px;
+                max-width: 300px;
+                font-size: 2em;
+                opacity: 0.8;
+                text-align: center;
+                color: #000;
+                background-color: gold;
+            }
+
+            .itemgreen .absolute-element {
+              position: absolute;
+              top: 500px;
+              left: 200px;
+            }
+            .horizontal-rectangle {
+              width: 350px;
+              height: 30px;
+              background-color: #E1DEDB;
+
+              position: absolute;
+              top: 275px;
+              right: ;
+              left: 500px;
+              bottom: ;
+              z-index: 1;
+            }
+
+}
+img {
+    width: 600px;
+    height: 1000px;
+    float: center;
+    align: center;
+    background-color: white;
+}

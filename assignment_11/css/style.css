@@ -1,36 +1,60 @@
 
+
+
    body {
-     background-color: rgb(115,136,165);
+     background-color: rgb(0,0,0);
+     vertical-align: center;
+     horizontal-align: center;
      text-align: center;
      font-family: fantasy;
    }
-/* OH I see!  So this tactic only denotes a comment if I'm within CSS styling.  Gotcha   */
 
-   img {
-     width: 600px;
-     float: center;
-   }
 
-.rect {
-  background-color: rgba(207, 179, 50, .8);
-  width: 43%
+
+
+
+
+
+
+
+.horizontal-rectangle {
+  width: 500px;
+  height: 600px;
+  padding: 0px;
+  background-color: rgb(40,70,175);
+
+  position: absolute;
+  top: 275px;
+  right: ;
+  left: 500px;
+  bottom: ;
+  z-index: 1;
 }
 
-h2 {
-  color: #7BC17E
+.green-rectangle {
+  width: 400px;
+  height: 500px;
+  padding: 0px;
+  background-color: rgb(40,170,50);
+
+  position: absolute;
+  top: 375px;
+  right: ;
+  left: 500px;
+  bottom: ;
+  z-index: 1;
 }
 
-div.item {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 120px;
-}
-img {
-    width: 100px;
-    height: 100px;
-    background-color: grey;
-}
-.caption {
-    display: block;
+.red-rectangle {
+  width: 200px;
+  height: 250px;
+  padding: 0px;
+  background-color: rgb(170,60,20);
+
+  position: absolute;
+  top: 625px;
+  right: ;
+  left: 500px;
+  bottom: ;
+  z-index: 1;
 }

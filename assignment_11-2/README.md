@@ -12,10 +12,10 @@
   <h1>README Assignment 11</h1>
 
 
-  <h2>Padding, Margin, and Borders</h2>
+  <h2></h2>
 
 <p>
-Padding refers to the amount of space between teh inner content of the element and the element itself.  The margin refers to the space between the box or element and different elements, or the edge of its parent/grandparent elements.
+
 </p>
 
 
@@ -29,11 +29,6 @@ Padding refers to the amount of space between teh inner content of the element a
   <h2>Find Out More About the Artist</h2>
   <nav>
     <a href="http://www.artnet.com/artists/ellsworth-kelly/">Ellsworth Kelly</a>
-
-<br>
-<br>
-<br>
-
 
 
 <h2>Work Cycle</h2>
