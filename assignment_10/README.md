@@ -25,7 +25,6 @@ The main difference between as system font and a web font is that a system font 
 Fallback or font stacks are used in the eventuality that the primary font fails for whatever reason.  In this case, the fallback option will step in and that is what will be visible to the viewer.
   <p>
 
-
 <h2>Work Cycle</h2>
 
   <p>
