@@ -2,19 +2,32 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
 
 
+td.description [
+min-width: 250px;
+max-width: 350px;
+text-align: left;
+padding: 4px;
+margin: 0px;
+]
+
+body {
+  background-image: url("./images/banner.jpg");
+  background-repeat: repeat-x;
+}
+
+
+
+p {
+  background-image: url("images/banner.jpg");
+}
+
+
+
 
 .text {
   background-color: rgba(177, 100, 50, .8);
   font-family: 'Noto Sans HK', sans-serif;
 
-}
-
-body {
-  background-color: rgb(115,176,165);
-  text-align: left;
-  color: black;
-  padding: 4px;
-  font-family: 'Noto Sans HK', sans-serif;
 }
 
 
@@ -23,14 +36,6 @@ body {
      float: center;
    }
 
-
-   body {
-     background-color: rgb(115,176,165);
-     text-align: left;
-     color: black;
-     padding: 4px;
-     font-family: 'Noto Sans HK', sans-serif;
-   }
 
 
 h2 {
